@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Typography
-permalink: /typography/
+title: Publications
+permalink: /Publications/
 main_nav: true
 ---
 
