@@ -8,11 +8,13 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/ "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Mao Tianchan is currently a Ph.D. candidate in Communication Studies at Fudan University (2020-2023), under the supervision of Professor Chunyang Zhu. She is also a visiting Ph.D. student in Communication and New Media at the National University of Singapore (2022-2023), under the guidance of Prof. Jack Linchuan Qiu. She is also recognized as the China Association for Science and Technology Young Scholar in 2022. Mao's recent research primarily focuses on platform studies, media industry, and media sociology. While she has a preference for qualitative research methods, Mao acknowledges that the academic journey should be multi-approached. Consequently, she is open to using quantitative and computational methods to investigate research questions. Mao Tianchan has already published over 10 papers in SSCI, CSSCI, and ICA conferences, and has successfully led a provincial research project in China, earning multiple awards for her provincial-level research contributions.![image](https://github.com/maotianchan/maotianchan.github.io/assets/151717333/a2ea618e-0b49-4c11-90eb-e1b42143aa4a)
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+In her leisure time, Mao Tianchan is an enthusiast of literature and the arts. She is also deeply passionate about table tennis, hiking, and yoga. She believes that the essence of academic research lies in a profound dialogue between oneself and the nature. Literature, art, history, music, and sports all contribute to enriching our imagination and understanding of the contemporary world.![image](https://github.com/maotianchan/maotianchan.github.io/assets/151717333/09e28fcf-575c-4c59-beee-e972bafa52cb)
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+ 
+
+
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
