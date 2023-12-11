@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 main_nav: true
 ---
+![生活形象照](https://github.com/maotianchan/maotianchan.github.io/assets/151717333/a1cd09e2-490d-4870-a59b-bb4c7b25acf5)
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/ "Profile Picture"){:.profile}
 
 Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
