@@ -9,10 +9,10 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Mao Tianchan
+subtitle: "PhD Student, Communication Studies,Fudan University,China"
+email: maotianchan@gmail.com
+name: maotianchan
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -78,8 +78,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: Mao Tianchan
+    url: https://twitter.com/maotianchan
     desc: Follow me on Twitter
     share: true
 
@@ -88,7 +88,7 @@ social:
     username: thebencentra
     url: ""
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
@@ -104,11 +104,11 @@ social:
     desc: Connect with me on LinkedIn
     share: true
 
-  - name: Google+
+  - name: Google Scholar
     icon: google-plus
     username: ""
     url: ""
-    desc: Add me to your Circles
+    desc: Add me to your Google Scholar
     share: true
 
   - name: YouTube
