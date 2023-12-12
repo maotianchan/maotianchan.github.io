@@ -58,7 +58,6 @@ main_nav: true
 
 </ul>
 
-<hr>
 
    
      
