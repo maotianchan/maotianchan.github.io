@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-main_nav: true
+main_nav: false
 ---
 ![生活形象照](https://github.com/maotianchan/maotianchan.github.io/assets/151717333/a1cd09e2-490d-4870-a59b-bb4c7b25acf5)
 
