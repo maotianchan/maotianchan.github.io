@@ -7,7 +7,7 @@ main_nav: true
 
 {% for category in site.categories %}
   {% capture platform studies %}{{ category | first }}{% endcapture %}
-  <h2 id="{{paltform}}">{{ cat | capitalize }}</h2>
+  <h2 id="{{paltform}}">{{platform }}</h2>
   {% for desc in site.descriptions %}
     {% if desc.paltform == cat %}
       <p class="desc"><em>{{ desc.desc }}</em></p>
