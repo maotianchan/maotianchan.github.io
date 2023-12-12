@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /Publications/
-main_nav: true
+main_nav: false
 ---
 
 <hr>
