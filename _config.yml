@@ -90,20 +90,6 @@ social:
     desc: Friend me on Facebook
     share: false
 
-  - name: GitHub
-    icon: github
-    username: bencentra
-    url: https://github.com/bencentra
-    desc: Fork me on GitHub
-    share: false
-
-  - name: LinkedIn
-    icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
-    desc: Connect with me on LinkedIn
-    share: false
-
   - name: Google Scholar
     icon: google-plus
     username: ""
@@ -130,7 +116,7 @@ social:
     username: ""
     url: ""
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
@@ -179,7 +165,7 @@ social:
     username: ""
     url: ""
     desc: Share to Reddit
-    share: true
+    share: false
 
   - name: "Hacker News"
     icon: hacker-news
