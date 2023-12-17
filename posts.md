@@ -33,7 +33,7 @@ My long-term commitment is positioning the study of Digital China within the con
 
 The social value of platform study requires returning to the topic of platform governance. The issues I want to include not only how platforms are governed but also how they govern their internal user and producer systems. I firmly believe that as multi-side markets, platforms ultimately aim to achieve openness and connectivity, contributing to the well-developed of society through Information communication technologies.
 
-平台研究的社会价值要回归如何实现平台治理。我关注的议题既包括平台如何被治理，也包括平台如何治理其内部的用户与生产者体系。我相信平台作为多边市场，其最终的旨归在于实现开放和连接，而这也是信息传播技术理应带给公共给社会的福祉。
+平台研究的社会价值要回归如何实现平台治理。我关注的议题既包括平台如何被治理，也包括平台如何治理其内部的用户与生产者体系。我相信平台作为多边市场，其最终的旨归在于实现开放和连接，而这也是信息传播技术理应带给公共社会的福祉。
 
 
 <ul>
