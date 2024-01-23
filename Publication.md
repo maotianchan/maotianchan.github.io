@@ -8,9 +8,9 @@ main_nav: true
 <hr>
 <h3>Journal Papers</h3>
 <ul>
-  <li>毛天婵 & 闻宇.(2023).游戏之厂，内眷生长：地缘视角下腾讯平台的基础设施化研究. 新闻记者(08),62-72. doi:10.16057/j.cnki.31-1171/g2.2023.08.010.【CSSCI】
+    <li>毛天婵&曾培伦(2024).平台化改变新闻业?:中国媒体的平台依赖性研究.现代传播(forthcoming).【CSSCI】
 </li>
-   <li>毛天婵&曾培伦(2024).平台化改变新闻业?:中国媒体的平台依赖性研究.现代传播(forthcoming).【CSSCI】
+  <li>毛天婵 & 闻宇.(2023).游戏之厂，内眷生长：地缘视角下腾讯平台的基础设施化研究. 新闻记者(08),62-72. doi:10.16057/j.cnki.31-1171/g2.2023.08.010.【CSSCI】
 </li>
    <li>Tianchan MAO (2023). Platforms and Cultural Production. Information,Communication&Society. [SSCI,online]
 </li>
