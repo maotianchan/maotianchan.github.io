@@ -10,7 +10,7 @@ main_nav: true
 <ul>
   <li>毛天婵 & 闻宇.(2023).游戏之厂，内眷生长：地缘视角下腾讯平台的基础设施化研究. 新闻记者(08),62-72. doi:10.16057/j.cnki.31-1171/g2.2023.08.010.【CSSCI】
 </li>
-   <li>毛天婵&曾培伦(2023).平台化改变新闻业?:中国媒体的平台依赖性研究.现代传播(12).【CSSCI】
+   <li>毛天婵&曾培伦(2024).平台化改变新闻业?:中国媒体的平台依赖性研究.现代传播(forthcoming).【CSSCI】
 </li>
    <li>Tianchan MAO (2023). Platforms and Cultural Production. Information,Communication&Society. [SSCI,online]
 </li>
@@ -40,6 +40,7 @@ main_nav: true
 
 <h3>Conference Papers</h3>
 <ul>
+   <li>Tianchan Mao&Zhengyu Zuo(2024).Localizing the Platformization How Chinese Tech Platform Giants Fit into Traditional Audiovisual Industry.Australia,Gold Coast:ICA </li>
   <li>毛天婵(2023).《工业化想象与IP剧崇拜:中国影视产业的平台化转型研究——基于30位影视从业者的深度访谈》.深圳:第四届平台研究学术工作坊</li>
   <li>毛天婵(2023).《从“东方好莱坞到文化孤岛”——影视生产基础设施的融合政治》.上海:媒介基础设施青年学者工作坊(第二届)</li>
   <li>毛天婵,闻宇(2023). 《内眷市场与出海想象:地缘视角下腾讯游戏的平台基础设施化研究》.第八届中国新闻史学会传媒经济与管理专业委员会学术年会【本文获优秀学生论文奖】</li>
@@ -55,7 +56,6 @@ main_nav: true
 <h3>Books and Book Chapters</h3>
 <ul>
   <li>毛天婵(2023). 《<记者与官员:新闻生产的组织和政治>导读》. 《西方新闻学名著导读》.白红义主编.北京:北京大学出版社,39-48 </li>
-
 </ul>
 
 
