@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Research Work"
-permalink: /Research Work/
+title: "Research"
+permalink: /Research/
 main_nav: true
 ---
 
